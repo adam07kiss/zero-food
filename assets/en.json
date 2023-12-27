@@ -1,0 +1,67 @@
+{
+  "restaurant": "Restaurant",
+  "weekly-menu-nav": "Weekly Menu",
+  "restaurantMenu": "Menu",
+  "gallery": "Gallery",
+
+  "gluten-free": "100% GLUTEN FREE",
+  "milk-free": "100% MILK FREE*",
+  "egg-free": "100% EGG FREE*",
+
+  "gluten-description": "Fully gluten free and cross contamination free kitchen.",
+  "milk-description": "*Lactose free and milk free options available.",
+  "egg-description": "*Items containing eggs are always marked.",
+
+  "restaurant-description": "Located in downtown Szeged we await our guests with a cozy atmosphere, and a wide variety of quality food, accommodating all types of food allergies and intolerance. We here at Zero know that having a gluten intolerance and keeping a gluten free diet often requires a lot of compromise. Our goal is to prove that <b>having food allergies does not have to mean that you need to sacrifice food quality or a broad range of different flavors.</b>",
+  "restaurant-description2": "<b>Our kitchen is entirely gluten free, so much so that we make sure no cross contamination can occur under any circumstances.</b> We exclusively use gluten free ingredients, prefer using coconut oil for frying as opposed to oils or fats, and whenever possible we refrain from using milk and/or lactose. In every case we pay special attention to indicate any and all allergens a certain food item may contain, and we also keep a selection of vegan options on our <a href=\"#menu-section\" class=\"text-accent underline\">menu</a>.",
+
+  "weekly-menu": "Our current <span class=\"text-accent\">weekly menu</span> offers",
+
+  "weekly-menu-description": "You can order our weekly menus by phone every weekday from 11 am to 3 pm, or you can pre-order!",
+
+  "restaurant-menu": "Restaurant menu",
+
+  "order-menu": "I'll order a menu!",
+
+  "menu-allergens": "Allergens: 1 - Gluten, 2 - Crustaceans, 3 - Eggs, 4 - Fish, 5 - Peanuts, 6 - Soy, 7 - Milk, 8 - Nuts, 9 - Celery, 10 - Mustard, 11 - Sesame seeds, 12 - Sulphites, 13 - Star anemones, 14 - Molluscs",
+
+  "allergens": "Allergens:",
+
+  "menu-allergen-1": "Gluten",
+
+  "menu-allergen-2": "Crustaceans",
+
+  "menu-allergen-3": "Eggs",
+
+  "menu-allergen-4": "Fish",
+
+  "menu-allergen-5": "Peanuts",
+
+  "menu-allergen-6": "Soy",
+
+  "menu-allergen-7": "Milk",
+
+  "menu-allergen-8": "Nuts",
+
+  "menu-allergen-9": "Celery",
+
+  "menu-allergen-10": "Mustard",
+
+  "menu-allergen-11": "Sesame seeds",
+
+  "menu-allergen-12": "Sulphites",
+
+  "menu-allergen-13": "Starflower",
+
+  "menu-allergen-14": "Molluscs",
+
+  "notification": "Notify me of updated offers!",
+
+  "table-reserve": "I'll book a table!",
+
+  "footer-order": "Telephone booking and reservations",
+
+  "all-rights": "All rights reserved © Supla Kft. 2023",
+
+  "gallery-text": "Visit our 100% gluten free and 100% cross contamination free restaurant, where you can choose freely from a range of main courses, pastas, streetfood, pizza and desserts despite any allergy or intolerance you may have."
+}

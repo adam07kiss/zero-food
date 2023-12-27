@@ -1,0 +1,1 @@
+import{createI18n}from"vue-i18n";import hu from"/assets/hu.json";import en from"/assets/en.json";export default defineNuxtPlugin(({vueApp:e})=>{const s=createI18n({legacy:!1,fallbackLocale:"hu",warnHtmlMessage:!1,locale:"hu",messages:{hu:hu,en:en}});e.use(s)});

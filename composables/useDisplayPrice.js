@@ -1,0 +1,1 @@
+export const useDisplayPrice=e=>e?e.toLocaleString("hu-HU").replace(/\u00a0/g,"."):"";

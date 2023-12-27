@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+  scroll-behavior: smooth;
+}
+
+#header {
+    #menu {
+    right: -100%;
+  }
+  &.open {
+    .bg-black {
+      animation: fadeIn .3s;
+      opacity: 0.5;
+    }
+    #menu{
+      right: 0;
+    }
+  }
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 0.5; }
+}
+
+*::-webkit-scrollbar {
+  width: 8px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #E6E6E6;
+  border-radius: 5px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #ED953E;
+  border-radius: 10px;
+}
+.swiper{
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.swiper-button-prev, .swiper-button-next{
+  color: #ED953E;
+  --swiper-navigation-size: 40px;
+}
+
+.swiper-slide{
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-pagination-bullet {
+  width: 13px;
+  height: 13px;
+  background-color: black;
+}
+
+nav.sticky{
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 10px;
+  transition: all .3s;
+  height: 80px;
+}
+
+.image {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.max-h-0 {
+  max-height: 0 !important;
+  overflow: hidden;
+}

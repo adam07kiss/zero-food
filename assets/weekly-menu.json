@@ -1,0 +1,112 @@
+[
+  {
+    "title": {
+      "hu": "Főételek",
+      "en": "Main courses"
+    },
+    "items": [
+      {
+        "id": 1,
+        "name": {
+          "hu": "Roston csirkemell gombás basmati rizzsel",
+          "en": "Roast chicken breast with basmati rice and mushrooms"
+        },
+        "price": 1990,
+        "description": {
+          "hu": "+ Választható leves",
+          "en": "+ Optional soup"
+        },
+        "allergens": null,
+        "person": {
+          "hu": null,
+          "en": null
+        }
+      },
+      {
+        "id": 2,
+        "name": {
+          "hu": "Hentestokány galuskával",
+          "en": "Butcher's steak with dumplings"
+        },
+        "price": 2190,
+        "description": {
+          "hu": "+ Választható leves",
+          "en": "+ Optional soup"
+        },
+        "allergens": [
+          3, 12
+        ],
+        "person": {
+          "hu": null,
+          "en": null
+        }
+      },
+      {
+        "id": 3,
+        "name": {
+          "hu": "Rántott csirkecombfilé burgonyapürével",
+          "en": "Fried chicken leg fillet with mashed potatoes"
+        },
+        "price": 2390,
+        "description": {
+          "hu": "+ Választható leves",
+          "en": "+ Optional soup"
+        },
+        "allergens": [
+          3
+        ],
+        "person": {
+          "hu": null,
+          "en": null
+        }
+      }
+    ]
+  },
+  {
+    "title": {
+      "hu": "Választható levesek",
+      "en": "Optional soups"
+    },
+    "items": [
+      {
+        "id": 9,
+        "name": {
+          "hu": "Lencsés sertésraguleves",
+          "en": "Lentil pork stew"
+        },
+        "price": null,
+        "description": {
+          "hu": null,
+          "en": null
+        },
+        "allergens": [
+          9,
+          10
+        ],
+        "person": {
+          "hu": null,
+          "en": null
+        }
+      },
+      {
+        "id": 10,
+        "name": {
+          "hu": "Lencsés sertésraguleves",
+          "en": "Lentil pork stew"
+        },
+        "price": null,
+        "description": {
+          "hu": null,
+          "en": null
+        },
+        "allergens": [
+          9
+        ],
+        "person": {
+          "hu": null,
+          "en": null
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "restaurant": "Étterem",
+  "weekly-menu-nav": "Heti menü",
+  "restaurantMenu": "Étlap",
+  "gallery": "Galéria",
+
+  "gluten-free": "100% GLUTÉNMENTES",
+  "milk-free": "100% TEJMENTES*",
+  "egg-free": "100% TOJÁSMENTES*",
+
+  "gluten-description" : "Teljesen glutén- és keresztszennyeződés-mentes konyha.",
+  "milk-description" : "*Laktóz- és tejmentes opciókat biztosítunk.",
+  "egg-description" : "*A tojást tartalmazó ételeket minden esetben megjelöljük.",
+
+  "restaurant-description" : "Éttermünk Szeged belvárosában található, ahol remek hangulattal és ételérzékeny-barát étlappal várjuk kedves vendégeinket. Tudjuk, hogy az ételallergia és a speciális étrend, legyen az gluténérzékenység, vagy más, alap esetben számos kompromisszummal jár együtt. Célunk, hogy bebizonyítsuk: <b>az ételallergia nem jelenti azt, hogy le kell mondanunk a finom ízekről vagy a minőségi ételről.</b>",
+  "restaurant-description2" : "<b>Konyhánk teljes egészében gluténmentes, sőt, keresztszennyeződés sem fordulhat elő.</b> Kizárólag GM alapanyagokat használunk, kókuszzsírban sütünk és ahol csak lehetséges mellőzzük a tej és/vagy a laktóz használatát. Minden esetben kiemelt figyelemmel jelöljük meg az ételekben esetlegesen előforduló allergéneket, illetve számos vegán étel is szerepel az <a href=\"#menu-section\" class=\"text-accent underline\">étlapunkon</a>.",
+
+  "weekly-menu": "Aktuális <span class=\"text-accent\">heti menü</span> ajánlataink",
+
+  "weekly-menu-description": "Heti menü ajánlatainkat megrendelheted telefonon minden hétköznap 11-15 óráig, illetve előrendelést is felveszünk!",
+
+  "restaurant-menu": "Éttermi étlapunk",
+
+  "order-menu": "Rendelek egy menüt!",
+
+  "menu-allergens": "Allergének: 1 - Glutén, 2 - Rákfélék, 3 - Tojás, 4 - Hal, 5 - Földimogyoró, 6 - Szója, 7 - Tej, 8 - Diófélék, 9 - Zeller, 10 - Mustár, 11 - Szezámmag, 12 - Szulfitok, 13 - Csillagfürt, 14 - Puhatestűek",
+
+  "allergens": "Allergének:",
+
+  "menu-allergen-1": "Glutén",
+
+  "menu-allergen-2": "Rákfélék",
+
+  "menu-allergen-3": "Tojás",
+
+  "menu-allergen-4": "Hal",
+
+  "menu-allergen-5": "Földimogyoró",
+
+  "menu-allergen-6": "Szója",
+
+  "menu-allergen-7": "Tej",
+
+  "menu-allergen-8": "Diófélék",
+
+  "menu-allergen-9": "Zeller",
+
+  "menu-allergen-10": "Mustár",
+
+  "menu-allergen-11": "Szezámmag",
+
+  "menu-allergen-12": "Szulfitok",
+
+  "menu-allergen-13": "Csillagfürt",
+
+  "menu-allergen-14": "Puhatestűek",
+
+  "notification": "Értesítést kérek a frissülő ajánlatokról!",
+
+  "table-reserve": "Asztalt foglalok!",
+
+  "footer-order": "Telefonos rendelés és asztalfoglalás",
+
+  "all-rights": "Minden jog fenntartva © Supla Kft. 2023",
+
+  "gallery-text": "Látogass el 100%-ig gluténmentes és 100%-ig keresztszennyeződés-mentes éttermünkbe, ahol ételallergia vagy ételérzékenység esetén is szabadon válogathatsz számos főétel, tésztaétel, streetfood, pizza és desszert közül."
+}
